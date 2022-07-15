@@ -11,8 +11,6 @@
  <hr>
  <br>
 
-<h3>" Visit GUUNNIA AREA"</h3>
-<br>
 ![GUUNNIA's github stats](https://github-readme-stats.vercel.app/api?username=GUUNNIA&show_icons=true&&theme=radical)
 
  <br>
