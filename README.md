@@ -16,7 +16,7 @@
 
 PROJECT-LIST (CATEGORY) | PROJECT-THEME | DATE | TECHNIQUE | LINK |
 ------------------------|---------------|------|-----------|------|
-MUSINSA ( NLP ) | Recommending Items | 2022.06 - 2022.07 | ML | [프로젝트 링크](https://) |
+MUSINSA<br>( NLP ) | Recommending Items | 2022.06 - 2022.07 | ML | [프로젝트 링크](https://) |
 MUSINSA ( NLP ) | Predicting Star-Rate Using Review | 2022.06 - 2022.07 | DL | [프로젝트 링크](https://) |
 CAR-DAMAGE DETECTION ( CV ) | Binary-Label | 2022.06 - 2022.07 | Sementic Segmentation | [프로젝트 링크](https://) |
 CAR-DAMAGE DETECTION ( CV ) | Multi-Label | 2022.06 - 2022.07 | Sementic Segmentation | [프로젝트 링크](https://) |
