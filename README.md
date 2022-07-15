@@ -12,6 +12,15 @@
  <br><hr><br>
 
 
+# 테이블 만들기
+
+PROJECT-LIST (CATEGORY) | PROJECT-THEME | DATE | TECHNIQUE | LINK
+------------|------|-------|-----|
+MUSINSA ( NLP ) |  | 2022.06 - 2022.07 | GAN | [GAN 프로젝트 링크](https://)
+CAR-DAMAGE-DETECTION ( CV ) |  | 2022.06 - 2022.07 | YOLO | [링크를걸겠습니다.](https://)
+
+ <br><hr><br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGUUNNIA%2Fhit-counter&count_bg=%238C8C8C&title_bg=%23A12AC0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
  <br><hr><br>
