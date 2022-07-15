@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23545454&title_bg=%239C20BC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h4>Visit GUUNNIA AREA</h4>
+<h4>Visit GUUNNIA AREA</h4> <hr>
 <a href="https://www.instagram.com/gu_unnia/"><img src="https://img.shields.io/badge/Instagram-FFCA28?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
  <br>
