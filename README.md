@@ -9,7 +9,7 @@
 
  
 
-![GUUNNIA's github stats](https://github-readme-stats.vercel.app/api?username=GUUNNIA&show_icons=true&&theme=onedark)
+![GUUNNIA's github stats](https://github-readme-stats.vercel.app/api?username=GUUNNIA&show_icons=true&&theme=highcontrast)
 
 
 <!--
