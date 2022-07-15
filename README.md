@@ -9,9 +9,7 @@
 #### ⦊ Technique : Data / Publishing / Design 
 #### ⦊ Contact : jkw8075@naver.com 
 
-
  <br><hr><br>
-
 
 # PROJECT (TEAM)
 
@@ -21,7 +19,6 @@
 | 1-2. | MUSINSA<br>( NLP ) | Predicting Star-Rate Using Review | 2022.06<br>2022.07 | DL | [DATA LIST](https://) |
 | 2-1. | CAR-DAMAGE DETECTION<br>( CV ) | Binary-Label | 2022.06<br>2022.07 | Semantic<br>Segmentation | [DATA LIST](https://) |
 | 2-2. | CAR-DAMAGE DETECTION<br>( CV ) | Multi-Label | 2022.06<br>2022.07 | Semantic<br>Segmentation | [DATA LIST](https://) |
-
 
  <br><hr><br>
 
