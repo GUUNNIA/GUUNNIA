@@ -8,7 +8,7 @@
 
  
 
-![GUUNNIA's github stats](https://github-readme-stats.vercel.app/api?username=GUUNNIA&show_icons=true&&theme=dark)
+![GUUNNIA's github stats](https://github-readme-stats.vercel.app/api?username=GUUNNIA&show_icons=true&&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GUUNNIA&layout=compact)](https://github.com/GUUNNIA/github-readme-stats)
 
