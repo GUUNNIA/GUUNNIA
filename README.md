@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CODEnter&fontSize=90&&animation=fadeIn" />
 
-(https://capsule-render.vercel.app/api?text=GU_UN&fontColor=ffffff)
+<p>(https://capsule-render.vercel.app/api?text=GU_UN&fontColor=ffffff)</p>
 
 
 
