@@ -12,14 +12,14 @@
  <br><hr><br>
 
 
-# 테이블 만들기
+# PROJECT (TEAM)
 
-PROJECT-LIST (CATEGORY) | PROJECT-THEME | DATE | TECHNIQUE | LINK |
+| NO. | PROJECT-LIST (CATEGORY) | PROJECT-THEME | DATE | TECHNIQUE | LINK |
 ------------------------|---------------|------|-----------|------|
-MUSINSA<br>( NLP ) | Recommending Items | 2022.06<br>2022.07 | ML | [DATA](https://) |
-MUSINSA<br>( NLP ) | Predicting Star-Rate Using Review | 2022.06<br>2022.07 | DL | [DATA](https://) |
-CAR-DAMAGE DETECTION<br>( CV ) | Binary-Label | 2022.06<br>2022.07 | Sementic<br>Segmentation | [DATA](https://) |
-CAR-DAMAGE DETECTION<br>( CV ) | Multi-Label | 2022.06<br>2022.07 | Sementic<br>Segmentation | [DATA](https://) |
+| 1-1. | MUSINSA<br>( NLP ) | Recommending Items | 2022.06<br>2022.07 | ML | [DATA](https://) |
+| 1-2. | MUSINSA<br>( NLP ) | Predicting Star-Rate Using Review | 2022.06<br>2022.07 | DL | [DATA](https://) |
+| 2-1. | CAR-DAMAGE DETECTION<br>( CV ) | Binary-Label | 2022.06<br>2022.07 | Sementic<br>Segmentation | [DATA](https://) |
+| 2-2. | CAR-DAMAGE DETECTION<br>( CV ) | Multi-Label | 2022.06<br>2022.07 | Sementic<br>Segmentation | [DATA](https://) |
 
 
  <br><hr><br>
