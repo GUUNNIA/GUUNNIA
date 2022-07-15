@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GUUN&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GUUN&fontSize=90&&animation= fadeIn" />
 
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=CODEnter&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=CODEnter&fontAlign=30&fontSize=30&descAlign=60&descAlignY=50&theme=radical)
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
 
 
 
