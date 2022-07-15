@@ -14,10 +14,12 @@
 
 # 테이블 만들기
 
-PROJECT-LIST (CATEGORY) | PROJECT-THEME | DATE | TECHNIQUE | LINK
-------------|------|-------|-----|
-MUSINSA ( NLP ) |  | 2022.06 - 2022.07 | GAN | [GAN 프로젝트 링크](https://)
-CAR-DAMAGE-DETECTION ( CV ) |  | 2022.06 - 2022.07 | YOLO | [링크를걸겠습니다.](https://)
+PROJECT-LIST (CATEGORY) | PROJECT-THEME | DATE | TECHNIQUE | LINK |
+------------------------|---------------|------|-----------|------|
+MUSINSA ( NLP ) | Recommending Items | 2022.06 - 2022.07 | ML | [프로젝트 링크](https://) |
+MUSINSA ( NLP ) | Predicting Star-Rate Using Review | 2022.06 - 2022.07 | DL | [프로젝트 링크](https://) |
+CAR-DAMAGE-DETECTION ( CV ) | Car Damage Detection | 2022.06 - 2022.07 | Segmentation | [프로젝트 링크](https://) |
+
 
  <br><hr><br>
 
