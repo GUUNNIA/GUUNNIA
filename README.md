@@ -33,7 +33,7 @@
 
 <h3>" Visit GUUNNIA AREA"</h3>
 <a href="https://www.instagram.com/gu_unnia/"><img src="https://img.shields.io/badge/INSTAGRAM-6a329f?style=flat-square&logo=INSTAGRAM&logoColor=yellow"/></a>
-<a href="https://vintage-settee-4e4.notion.site/CODEnter-a97cd4c7b9694816a444f814b29170ca"><img src="https://img.shields.io/badge/NOTION-383838?style=flat-square&logo=NOTION&logoColor=white"/></a>
+<a href="https://vintage-settee-4e4.notion.site/CODEnter-a97cd4c7b9694816a444f814b29170ca"><img src="https://img.shields.io/badge/NOTION-383838?style=flat-square&logo=NOTION&logoColor=white&font=bold"/></a>
 
 
 
