@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CODEnter&fontColor=FFFFFF&fontSize=90&)
 
 # GU_UN
-#### ⦊ Name : JEON GYU WON ⦉
-#### ⦊ Graduation : Chung-Ang University ⦉
-#### ⦊ Major : Design ⦉
-#### ⦊ Study : Alpaco Campas 2nd Deep-Learning Boot Camp [Big Data Based] ⦉
-#### ⦊ Technique : Data / Publishing / Design ⦉
-#### ⦊ Contact : jkw8075@naver.com ⦉
+#### ⦊ Name : JEON GYU WON 
+#### ⦊ Graduation : Chung-Ang University 
+#### ⦊ Major : Design 
+#### ⦊ Study : Alpaco Campas 2nd Deep-Learning Boot Camp [Big Data Based] 
+#### ⦊ Technique : Data / Publishing / Design 
+#### ⦊ Contact : jkw8075@naver.com 
 
 
  <br><hr><br>
