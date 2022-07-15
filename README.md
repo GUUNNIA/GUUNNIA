@@ -5,6 +5,7 @@
 #### ⦊ Graduation : Chung-Ang University ⦉
 #### ⦊ Major : Design ⦉
 #### ⦊ Study : Alpaco Campas 2nd Deep-Learning Boot Camp [Big Data Based] ⦉
+#### ⦊ Technique : Data / Publishing / Design ⦉
 #### ⦊ Contact : jkw8075@naver.com ⦉
 
 
