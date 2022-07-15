@@ -7,7 +7,9 @@
 
 <a href="https://www.instagram.com/gu_unnia/"><img src="https://img.shields.io/badge/Instagram-FFCA28?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
+ 
 
+![GUUNNIA's github stats](https://github-readme-stats.vercel.app/api?username=GUUNNIA&show_icons=true)
 
 
 <!--
