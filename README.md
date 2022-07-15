@@ -31,7 +31,7 @@
  <br><hr><br>
 
 <h3>" Visit GUUNNIA AREA"</h3>
-<a href="https://www.instagram.com/gu_unnia/"><img src="https://img.shields.io/badge/Instagram-8098e7?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/gu_unnia/"><img src="https://img.shields.io/badge/Instagram-6a329f?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 
