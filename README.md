@@ -4,8 +4,11 @@
 #### ⦊ Name : JEON GYU WON ⦉
 #### ⦊ Graduation : Chung-Ang University ⦉
 #### ⦊ Major : Design ⦉
+#### ⦊ Study : Alpaco Campas 2nd Deep-Learning Boot Camp [Big Data Based] ⦉
 #### ⦊ Contact : jkw8075@naver.com ⦉
-#### ⦊ Study : Alpaco Campas 2nd Deep-Learning Boot Camp [Using Big Data] ⦉
+
+
+ <br><hr><br>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGUUNNIA%2Fhit-counter&count_bg=%238C8C8C&title_bg=%23A12AC0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
