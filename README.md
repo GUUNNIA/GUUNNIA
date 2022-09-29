@@ -20,8 +20,8 @@
 | 1-2. | MUSINSA<br>( NLP ) | Predicting Star-Rate Using Review | 2022.06<br>2022.07 | KoBert | [DATA LIST](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/F!na!_KoBert_Multi_Classification.ipynb) |
 | 2-1. | CAR-DAMAGE DETECTION<br>( CV ) | Binary-Label | 2022.06<br>2022.07 | Semantic<br>Segmentation | [DATA LIST](https://) |
 | 2-2. | CAR-DAMAGE DETECTION<br>( CV ) | Multi-Label | 2022.06<br>2022.07 | Semantic<br>Segmentation | [DATA LIST](https://) |
-| 3-1. | Kaggle_Competition<br>( CV ) | Binary_Class_Label | 2022.08<br>2022.09 | Semantic<br>Segmentation | [DATA Handling List](https://github.com/GUUNNIA/Kaggle_Data_Handling) |
-| 3-2. | Kaggle_Competition<br>( CV ) | Binary_Class_Label | 2022.08<br>2022.09 | Semantic<br>Segmentation | [Modeling List](https://github.com/GUUNNIA/Kaggle_Competition) |
+| 3-1. | Kaggle_Competition<br>( CV ) | Binary_Class_Label | 2022.08<br>2022.09 | Semantic<br>Segmentation</br>[FastAI] | [DATA Handling List](https://github.com/GUUNNIA/Kaggle_Data_Handling) |
+| 3-2. | Kaggle_Competition<br>( CV ) | Binary_Class_Label | 2022.08<br>2022.09 | Semantic<br>Segmentation</br>[FastAI] | [Modeling List](https://github.com/GUUNNIA/Kaggle_Competition) |
 
  <br><hr><br>
 
