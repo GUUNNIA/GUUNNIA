@@ -7,7 +7,7 @@
 #### ⦊ Major : Design 
 #### ⦊ Study : Alpaco Campas 2nd Deep-Learning Boot Camp [Big Data Based] 
 #### ⦊ Technique : Data / Publishing / Design 
-#### ⦊ Contact : jkw8075@naver.com 
+#### ⦊ Contact : jkw8075@naver.com / wrd2427@gmail.com
 
  <br><hr><br>
 
