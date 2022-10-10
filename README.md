@@ -16,7 +16,7 @@
 
 |  NO. | PROJECT-LIST (CATEGORY) | PROJECT-THEME | DATE | TECHNIQUE | LINK |
 |------|------------------------|---------------|------|-----------|------|
-| 1-1. | MUSINSA<br>( NLP ) | Recommending Items | 2022.06<br>2022.07 | ML | [DATA LIST](https://) |
+| 1-1. | MUSINSA<br>( NLP ) | Recommending Items | 2022.06<br>2022.07 | ML | [DATA LIST](https://github.com/GUUNNIA/Portfolio#3-%ED%81%90%EB%A0%88%EC%9D%B4%ED%8C%85-%EA%B8%80%EC%A0%84%EB%AC%B8%EC%84%B1-%EA%B3%BC-%EC%83%81%ED%92%88-%EC%83%81%EC%84%B8-%EC%84%A4%EB%AA%85%EC%A0%84%EB%AC%B8%EB%8B%A8%EC%96%B4%EC%9D%84-%EB%B9%84%EA%B5%90%ED%95%98%EC%97%AC-%EC%83%81%ED%92%88-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91--using-musinsastandard-items-) |
 | 1-2. | MUSINSA<br>( NLP ) | Predicting Star-Rate Using Review | 2022.06<br>2022.07 | KoBert | [DATA LIST](https://github.com/GUUNNIA/Portfolio/blob/main/MUSINSA/F!na!_KoBert_Multi_Classification.ipynb) |
 | 2-1. | CAR-DAMAGE DETECTION<br>( CV ) | Binary-Label | 2022.06<br>2022.07 | Semantic<br>Segmentation | [DATA LIST](https://) |
 | 2-2. | CAR-DAMAGE DETECTION<br>( CV ) | Multi-Label | 2022.06<br>2022.07 | Semantic<br>Segmentation | [DATA LIST](https://) |
